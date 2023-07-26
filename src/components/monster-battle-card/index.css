@@ -1,0 +1,28 @@
+.monster-container-card {
+  height: 100%;
+}
+.monster-container-card--img {
+  width: 100%;
+}
+
+.monster-container-card--name {
+  display: block;
+  font-size: 22px;
+  font-weight: 400;
+  margin-top: 0.5rem;
+  border-bottom: 0.5px solid black;
+}
+
+.monster-container-card--attributes {
+  margin-top: 1rem;
+}
+
+.monster-container-card--attributes-item {
+  margin: 1rem auto;
+  display: flex;
+  flex-direction: column;
+}
+
+progress {
+  width: 100%;
+}
